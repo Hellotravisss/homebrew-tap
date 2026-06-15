@@ -1,8 +1,8 @@
-class AgenticSandboxSentry < Formula
+class AgenticSentry < Formula
   desc "Runtime safety guard for local AI coding agents (command monitoring + audit)"
-  homepage "https://github.com/Hellotravisss/agentic-sandbox-sentry"
-  url "https://github.com/Hellotravisss/agentic-sandbox-sentry/archive/refs/tags/v0.1.6.tar.gz"
-  sha256 "53306208fc78429e62c036d53621471ea9df09c3b120a2eb8e4ab69d83774536"
+  homepage "https://github.com/Hellotravisss/agentic-sentry"
+  url "https://github.com/Hellotravisss/agentic-sentry/archive/refs/tags/v0.1.6.tar.gz"
+  sha256 "27a2278b59f08cccbc69123e0aedcbbb4bab17d3ff26400389a9c894105c0a1b"
   license "MIT"
 
   depends_on "fswatch"
